@@ -1,0 +1,4 @@
+project:
+  image: web-scraper-imdb:latest
+  volumes:
+   - .:/app
